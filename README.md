@@ -36,7 +36,6 @@ If you find our paper/code useful, please consider citing our work:
   author={Pan, Jun-Yu and Yin, Hao-Long and Zheng, Wei-Long},
   booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2025},
-  pages={1--5},
   organization={IEEE}
 }
 ```
