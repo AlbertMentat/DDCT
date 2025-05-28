@@ -12,7 +12,7 @@ Electroencephalogram (EEG) feature distributions of video and game scenarios are
 * pytorch==2.4.0
 
 ## Example
-Example code for the use of MoGE:
+Example code for the use of DDCT:
 ```python
 import torch
 from torch import nn
