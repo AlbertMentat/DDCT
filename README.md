@@ -31,11 +31,15 @@ print(target_out.shape)  # (32,2)
 ## Citation
 If you find our paper/code useful, please consider citing our work:
 ```
-@inproceedings{pan2025double,
-  title={Double Domain Converter Transformer For Improving EEG-Based Emotion Recognition from Video to Game Scenarios},
+@INPROCEEDINGS{10889052,
   author={Pan, Jun-Yu and Yin, Hao-Long and Zheng, Wei-Long},
-  booktitle={ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Double Domain Converter Transformer For Improving EEG-Based Emotion Recognition from Video to Game Scenarios}, 
   year={2025},
-  organization={IEEE}
-}
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Emotion recognition;Video games;Games;Speech recognition;Signal processing;Brain modeling;Transformers;Feature extraction;Speech processing;Videos;cross-scenario emotion recognition;video games;domain adaptation;EEG;Transformer},
+  doi={10.1109/ICASSP49660.2025.10889052}}
+
 ```
